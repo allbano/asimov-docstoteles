@@ -1,5 +1,8 @@
 # 📚 Docstóteles - IA SEMPRE ATUALIZADA (Web Scraping + RAG)
 
+## Vídeo para acompanhar o desenvolvimento do código do repo:
+### https://www.youtube.com/watch?v=emcxlgN8sQ0
+
 Transforme qualquer documentação em um assistente de IA atualizado!  
 Crie um chat que responde sobre qualquer tecnologia, usando scraping inteligente e RAG, com ferramentas 100% gratuitas.
 
